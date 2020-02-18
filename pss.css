@@ -1,0 +1,21 @@
+.profile{
+	position: absolute;
+	top: 40%;
+	left: 25%;
+	background: transparent;
+}
+.profile{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+}
+.bisnis{position: absolute;
+	top: 40%;
+	left: 15%;
+	background: transparent;
+}
+.bisnis{
+	font-family: sans-serif;
+	font-size: 20px;
+	color: white;
+}

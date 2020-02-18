@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: arial;
+}
+header{
+	background-image: url(thumb.jpg);
+	background-position: center;
+	height: 100vh;
+	background-size: cover;
+}
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 20px;
+}
+ul li{
+	display: inline-block;
+}
+ul li a{
+	text-decoration: none;
+	color: #fff;
+	padding: 5px 20px;
+	border: 1px solid transparent;
+	margin-top: 10px;
+}
+ul li a:hover{
+	background-color: #fff;
+	color: #000;
+}
+ul li.tombol a{
+	background-color: #fff;
+	color: #000;
+}
+.welcome{
+	position: absolute;
+	top: 40%;
+	left: 35%;
+	transform: translate(-50%;-50%);
+}
+.welcome h1{
+	font-family: sans-serif;
+	columns: #fff;
+	font-size: 70px;
+}
